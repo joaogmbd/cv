@@ -1,2 +1,2 @@
 # cv
-Projeto Para UVV 1º Período (Construção de Software para Web)
+Projeto de Currículo para UVV 1º Período (Construção de Software para Web)
